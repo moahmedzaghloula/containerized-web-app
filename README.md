@@ -12,10 +12,6 @@ The app also uses **Nginx** as a reverse proxy to handle requests and forward th
 - [Features](#features)
 - [Technologies](#technologies)
 - [Docker Setup](#docker-setup)
-- [API Endpoints](#api-endpoints)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
